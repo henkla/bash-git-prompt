@@ -17,7 +17,8 @@ This is a sketch of how the ouput could end up looking:
 ## Installation and how to use
 1) Download the script file (git_prompt.sh)
 2) Put it in your desired location (i.e. $HOME/.local/bin)
-3) Make it executable (chmod +x /location/of/script/git_prompt.sh)
+3) Make it executable:
+   > chmod +x /location/of/script/git_prompt.sh 
 4) Make sure your .bashrc configuration knows the location of the script
 5) Assign your PS1 (or prompt of choice) to the script: 
    > export PS1=$(git_prompt)\n$PS1 
