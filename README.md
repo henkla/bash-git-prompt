@@ -8,3 +8,9 @@ This is a sketch of how the ouput could end up looking:
 > [master] [origin/master] [dirty] [4 untracked files]
 
 > ~/../bash-git-prompt/ $
+
+
+## Resources
+* https://gist.github.com/eliotsykes/47516b877f5a4f7cd52f
+  - https://emojipedia.org/slightly-smiling-face/
+  - https://gist.github.com/justintv/168835
